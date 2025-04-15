@@ -1,11 +1,7 @@
 # DL_p4_Dis_Driver_Detection
 Distracted Driver MultiAction Classification
-Here’s a professional and informative `README.md` file for your GitHub project **"Distracted Driver MultiAction Classification"**:
 
----
-
-```markdown
-# 🚗 Project 4: Distracted Driver MultiAction Classification
+# 🚗 Project: Distracted Driver MultiAction Classification
 
 This project involves building a deep learning model to classify driver behavior from images into one of 10 predefined categories. The goal is to identify distracted driver activities using image classification techniques.
 
@@ -96,7 +92,7 @@ Install dependencies via:
 pip install -r requirements.txt
 ```
 
-Recommended libraries:
+**Recommended libraries:**
 
 - TensorFlow / Keras
 - NumPy / Pandas
